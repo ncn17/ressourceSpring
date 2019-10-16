@@ -1,3 +1,15 @@
 127.0.0.1 - - [16/Oct/2019:20:10:46 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 200 905 http-bio-8080-exec-1 952
 127.0.0.1 - - [16/Oct/2019:20:10:46 +0100] "GET /SpringMVCResource/scripts/common.js HTTP/1.1" 304 - http-bio-8080-exec-2 12
 127.0.0.1 - - [16/Oct/2019:20:10:46 +0100] "GET /SpringMVCResource/styles/common.css HTTP/1.1" 304 - http-bio-8080-exec-3 15
+127.0.0.1 - - [16/Oct/2019:20:47:32 +0100] "GET /SpringMVCResource/ HTTP/1.1" 200 96 http-bio-8080-exec-1 505
+127.0.0.1 - - [16/Oct/2019:20:47:33 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 949 http-bio-8080-exec-2 26
+127.0.0.1 - - [16/Oct/2019:20:47:41 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 949 http-bio-8080-exec-3 3
+127.0.0.1 - - [16/Oct/2019:20:49:26 +0100] "GET /SpringMVCResource/ HTTP/1.1" 200 96 http-bio-8080-exec-1 74
+127.0.0.1 - - [16/Oct/2019:20:49:27 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 1033 http-bio-8080-exec-3 73
+127.0.0.1 - - [16/Oct/2019:20:58:36 +0100] "GET /SpringMVCResource/ HTTP/1.1" 200 96 http-bio-8080-exec-1 52
+127.0.0.1 - - [16/Oct/2019:20:58:37 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 1033 http-bio-8080-exec-2 65
+127.0.0.1 - - [16/Oct/2019:20:58:37 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 1033 http-bio-8080-exec-3 3
+127.0.0.1 - - [16/Oct/2019:21:01:08 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 404 1033 http-bio-8080-exec-7 3
+127.0.0.1 - - [16/Oct/2019:21:10:32 +0100] "GET /SpringMVCResource/ HTTP/1.1" 200 96 http-bio-8080-exec-1 60
+127.0.0.1 - - [16/Oct/2019:21:10:34 +0100] "GET /SpringMVCResource/hello HTTP/1.1" 200 905 http-bio-8080-exec-2 615
+127.0.0.1 - - [16/Oct/2019:21:10:34 +0100] "GET /SpringMVCResource/scripts/common.js HTTP/1.1" 404 949 http-bio-8080-exec-3 3
